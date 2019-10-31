@@ -9,7 +9,7 @@
 	4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/HKA5EFGFLAEM)
 	5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/3ER4YGGT5FH7)
 * [TensorFlow in Practice Specialization](https://www.coursera.org/account/accomplishments/specialization/8AR57NNXZCVT)
-	1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/specialization/8AR57NNXZCVT)
+	1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/verify/REB4F6SKBL25)
 	2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/verify/YE2QZAREBBAF)
 	3. [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/verify/N85CP29JC7K6)
 	4. [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/verify/7K8RDBH53XKK)
